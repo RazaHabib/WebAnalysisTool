@@ -1,0 +1,63 @@
+D:\InfoArch\IACollector\IADAL\obj\Release\ResolveAssemblyReference.cache
+D:\InfoArch\IACollector\IADAL\bin\Release\IADAL.dll.config
+D:\InfoArch\IACollector\IADAL\bin\Release\IADAL.dll
+D:\InfoArch\IACollector\IADAL\bin\Release\IADAL.pdb
+D:\InfoArch\IACollector\IADAL\bin\Release\SubSonic.Core.dll
+D:\InfoArch\IACollector\IADAL\bin\Release\SubSonic.Core.pdb
+D:\InfoArch\IACollector\IADAL\bin\Release\SubSonic.Core.xml
+D:\InfoArch\IACollector\IADAL\obj\Release\IADAL.dll
+D:\InfoArch\IACollector\IADAL\obj\Release\IADAL.pdb
+C:\Users\Developer\Desktop\IACollector\IADAL\bin\Release\IADAL.dll.config
+C:\Users\Developer\Desktop\IACollector\IADAL\bin\Release\IADAL.dll
+C:\Users\Developer\Desktop\IACollector\IADAL\bin\Release\IADAL.pdb
+C:\Users\Developer\Desktop\IACollector\IADAL\bin\Release\SubSonic.Core.dll
+C:\Users\Developer\Desktop\IACollector\IADAL\bin\Release\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\IACollector\IADAL\bin\Release\SubSonic.Core.xml
+C:\Users\Developer\Desktop\IACollector\IADAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\IACollector\IADAL\obj\Release\IADAL.dll
+C:\Users\Developer\Desktop\IACollector\IADAL\obj\Release\IADAL.pdb
+C:\Users\Developer\Documents\Visual Studio 2008\Projects\IACollector\IADAL\bin\Release\IADAL.dll.config
+C:\Users\Developer\Documents\Visual Studio 2008\Projects\IACollector\IADAL\bin\Release\IADAL.dll
+C:\Users\Developer\Documents\Visual Studio 2008\Projects\IACollector\IADAL\bin\Release\IADAL.pdb
+C:\Users\Developer\Documents\Visual Studio 2008\Projects\IACollector\IADAL\bin\Release\SubSonic.Core.dll
+C:\Users\Developer\Documents\Visual Studio 2008\Projects\IACollector\IADAL\bin\Release\SubSonic.Core.pdb
+C:\Users\Developer\Documents\Visual Studio 2008\Projects\IACollector\IADAL\bin\Release\SubSonic.Core.xml
+C:\Users\Developer\Documents\Visual Studio 2008\Projects\IACollector\IADAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2008\Projects\IACollector\IADAL\obj\Release\IADAL.dll
+C:\Users\Developer\Documents\Visual Studio 2008\Projects\IACollector\IADAL\obj\Release\IADAL.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IADAL\bin\Release\IADAL.dll.config
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IADAL\bin\Release\IADAL.dll
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IADAL\bin\Release\IADAL.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IADAL\bin\Release\SubSonic.Core.dll
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IADAL\bin\Release\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IADAL\bin\Release\SubSonic.Core.xml
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IADAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IADAL\obj\Release\IADAL.dll
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IADAL\obj\Release\IADAL.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\IADAL.dll.config
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\IADAL.dll
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\IADAL.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\SubSonic.Core.dll
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\SubSonic.Core.xml
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\obj\Release\IADAL.dll
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\obj\Release\IADAL.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\obj\Release\IADAL.dll
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\obj\Release\IADAL.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\IADAL.dll.config
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\IADAL.dll
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\IADAL.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\SubSonic.Core.dll
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\SubSonic.Core.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\SubSonic.Core.xml
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\IADAL.dll.config
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\IADAL.dll
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\IADAL.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\SubSonic.Core.dll
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\SubSonic.Core.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\bin\Release\SubSonic.Core.xml
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\obj\Release\IADAL.dll
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IADAL\obj\Release\IADAL.pdb

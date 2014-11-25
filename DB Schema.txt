@@ -1,0 +1,53 @@
+WebPage
+(
+
+WebPageId	int	Unchecked
+Title	nvarchar(500)	Unchecked
+PageTemplate	int	Checked
+url	nvarchar(500)	Unchecked
+Visited	bit	Unchecked
+Source	nvarchar(MAX)	Unchecked
+		Unchecked
+)
+
+Heading
+(
+HeadingId, pk
+PageId, FK
+HeadingText
+)
+
+
+
+
+Paragraph
+(
+ParaId, pk
+PageId,fk
+HeadingId,fk
+ParaText,
+CosineValue
+)
+
+
+link
+(
+LinkId,pk
+PageId,fk
+LinkAnchorText,
+LinkUrl,
+ToPage
+)
+
+AnImage
+(
+ImgId,PK
+PageId,fk
+HeadingId,fk
+ImageAltText
+)
+
+
+
+
+ 

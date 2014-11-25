@@ -1,0 +1,155 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D459497C-76BF-486A-91E3-9EF25CD5AF13/f:App.config" caret="278" fromTop="6" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:Program.cs" caret="0" fromTop="0" />
+      <File id="d:Miscellaneous Files/f:DbDataProvider.cs/l:D!?subsonic-SubSonic-3.0-c66fbf0 - fixes projection?SubSonic.Core?DataProviders?DbDataProvider.cs" caret="4884" fromTop="13" />
+      <File id="d:Miscellaneous Files/f:SubSonicRepository.cs/l:D!?subsonic-SubSonic-3.0-c66fbf0 - fixes projection?SubSonic.Core?Repository?SubSonicRepository.cs" caret="6479" fromTop="17" />
+      <File id="D459497C-76BF-486A-91E3-9EF25CD5AF13/f:ActiveRecord.cs" caret="79845" fromTop="32" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:AsyncOperation.cs" caret="12928" fromTop="170" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:Form1.cs" caret="606" fromTop="7" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="784" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:Form1.cs" caret="1141" fromTop="17" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:Form1.cs" caret="565" fromTop="13" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:Form1.cs" caret="651" fromTop="29" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="0" fromTop="0" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:AsyncOperation.cs" caret="12928" fromTop="353" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:AsyncOperation.cs" caret="201" fromTop="8" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:AsyncOperation.cs" caret="1874" fromTop="12" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="239" fromTop="4" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="8071" fromTop="0" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:Form1.cs" caret="372" fromTop="3" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="519" fromTop="12" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="563" fromTop="15" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="1091" fromTop="13" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:Form1.cs" caret="1141" fromTop="27" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="7241" fromTop="29" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="7167" fromTop="25" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="6703" fromTop="9" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="6605" fromTop="2" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="2076" fromTop="3" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="2171" fromTop="4" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="3723" fromTop="16" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="7130" fromTop="25" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="519" fromTop="12" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:Form1.cs" caret="725" fromTop="14" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:Form1.cs" caret="1132" fromTop="25" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:Form1.cs" caret="641" fromTop="10" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:Form1.cs" caret="870" fromTop="16" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="801" fromTop="17" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="4696" fromTop="22" />
+      <File id="E794ACD0-7B71-4E9F-95DB-72F438B54473/f:CollectionWorker.cs" caret="6014" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="TBStartURL" priority="2" />
+      <Item value="toolStripStatusLabel1" priority="0" />
+      <Item value="s" priority="0" />
+      <Item value="return" priority="3" />
+      <Item value="sfull2" priority="3" />
+      <Item value="List" priority="1" />
+      <Item value="string" priority="16" />
+      <Item value="new" priority="2" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="private" priority="4" />
+      <Item value="PreferredSize" priority="1" />
+      <Item value="int" priority="5" />
+      <Item value="url" priority="12" />
+      <Item value="while" priority="0" />
+      <Item value="p" priority="6" />
+      <Item value="link" priority="9" />
+      <Item value="if" priority="8" />
+      <Item value="p1" priority="0" />
+      <Item value="p2" priority="1" />
+      <Item value="Links" priority="1" />
+      <Item value="Link" priority="1" />
+      <Item value="newLink" priority="1" />
+      <Item value="WebPageTable" priority="0" />
+      <Item value="PageTemplateTable" priority="0" />
+      <Item value="WebPage" priority="7" />
+      <Item value="x" priority="2" />
+      <Item value="wp" priority="5" />
+      <Item value="title" priority="4" />
+      <Item value="tag" priority="1" />
+      <Item value="sr" priority="0" />
+      <Item value="WebPages" priority="2" />
+      <Item value="FromPage" priority="1" />
+      <Item value="prop" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="nextPage" priority="0" />
+      <Item value="sin" priority="5" />
+      <Item value="CleanUp" priority="0" />
+      <Item value="linktitle" priority="2" />
+      <Item value="RemoveTags" priority="1" />
+      <Item value="source" priority="2" />
+      <Item value="TBResults" priority="1" />
+      <Item value="CollectionWorker" priority="0" />
+      <Item value="searchDir" priority="0" />
+      <Item value="BtnCollect" priority="0" />
+      <Item value="OnMatch" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="c2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripStatusLabel">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="IndexOf" priority="5" />
+      <Item value="Substring" priority="7" />
+      <Item value="ToUpper" priority="1" />
+      <Item value="Length" priority="1" />
+      <Item value="StartsWith" priority="0" />
+      <Item value="Replace" priority="0" />
+      <Item value="EndsWith" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IADAL.Link">
+      <Item value="FromPage" priority="1" />
+      <Item value="Save" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@IADAL.WebPage">
+      <Item value="SingleOrDefault" priority="0" />
+      <Item value="All" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:IADAL.WebPage">
+      <Item value="url" priority="1" />
+      <Item value="Save" priority="2" />
+      <Item value="WebPageId" priority="2" />
+      <Item value="Visited" priority="2" />
+      <Item value="Source" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="1" />
+      <Item value="SingleOrDefault" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SubSonic.Repository.IRepository`1">
+      <Item value="Find" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="SingleOrDefault" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="ToList" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

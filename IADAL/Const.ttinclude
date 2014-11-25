@@ -1,0 +1,26 @@
+<#+
+
+    const string Namespace = "IADAL";
+    const string UINamespace = "CinemaWebApp";
+    const string ConnectionStringName = "InfoArch";
+    const string SiteMaster = "Site1";
+    const bool UsesAjax = false;
+    const bool UsesAjaxToolkit = false;
+    //const string SiteMaster = "Site1";
+    
+    //This is the name of your database and is used in naming
+    //the repository. By default we set it to the connection string name
+    const string DatabaseName = "InfoArch";
+
+    //this is a list of tables you don't want generated
+    string[] ExcludeTables = new string[]{
+    "sysdiagrams",
+    "BuildVersion",
+    };
+    //this is a list of columns you don't want generated
+    string[] ExcludeColumns = new string[]{
+    "ChangedBy",
+    "DateChanged",
+    "Active",
+    };
+#>

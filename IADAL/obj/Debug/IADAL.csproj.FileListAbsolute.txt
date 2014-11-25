@@ -1,0 +1,62 @@
+d:\InfoArch\IACollector\IADAL\obj\Debug\ResolveAssemblyReference.cache
+d:\InfoArch\IACollector\IADAL\bin\Debug\IADAL.dll.config
+d:\InfoArch\IACollector\IADAL\bin\Debug\IADAL.dll
+d:\InfoArch\IACollector\IADAL\bin\Debug\IADAL.pdb
+d:\InfoArch\IACollector\IADAL\bin\Debug\SubSonic.Core.pdb
+d:\InfoArch\IACollector\IADAL\bin\Debug\SubSonic.Core.xml
+d:\InfoArch\IACollector\IADAL\obj\Debug\IADAL.dll
+d:\InfoArch\IACollector\IADAL\obj\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IADAL\bin\Debug\IADAL.dll.config
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IADAL\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IADAL\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IADAL\bin\Debug\SubSonic.Core.dll
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IADAL\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IADAL\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IADAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IADAL\obj\Debug\IADAL.dll
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IADAL\obj\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IADAL\bin\Debug\IADAL.dll.config
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IADAL\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IADAL\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IADAL\bin\Debug\SubSonic.Core.dll
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IADAL\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IADAL\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IADAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IADAL\obj\Debug\IADAL.dll
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IADAL\obj\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IADAL\bin\Debug\IADAL.dll.config
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IADAL\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IADAL\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IADAL\bin\Debug\SubSonic.Core.dll
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IADAL\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IADAL\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IADAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IADAL\obj\Debug\IADAL.dll
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IADAL\obj\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IADAL\bin\Debug\IADAL.dll.config
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IADAL\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IADAL\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IADAL\bin\Debug\SubSonic.Core.dll
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IADAL\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IADAL\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IADAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IADAL\obj\Debug\IADAL.dll
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IADAL\obj\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis\IADAL\bin\Debug\IADAL.dll.config
+C:\Users\Developer\Desktop\WebsiteAnalysis\IADAL\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\WebsiteAnalysis\IADAL\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis\IADAL\bin\Debug\SubSonic.Core.dll
+C:\Users\Developer\Desktop\WebsiteAnalysis\IADAL\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis\IADAL\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\WebsiteAnalysis\IADAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\WebsiteAnalysis\IADAL\obj\Debug\IADAL.dll
+C:\Users\Developer\Desktop\WebsiteAnalysis\IADAL\obj\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IADAL\bin\Debug\IADAL.dll.config
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IADAL\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IADAL\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IADAL\bin\Debug\SubSonic.Core.dll
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IADAL\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IADAL\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IADAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IADAL\obj\Debug\IADAL.dll
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IADAL\obj\Debug\IADAL.pdb

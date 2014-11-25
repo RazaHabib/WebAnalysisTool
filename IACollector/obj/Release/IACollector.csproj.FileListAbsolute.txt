@@ -1,0 +1,115 @@
+D:\InfoArch\IACollector\IACollector\obj\Release\ResolveAssemblyReference.cache
+D:\InfoArch\IACollector\IACollector\obj\Release\IACollector.Form1.resources
+D:\InfoArch\IACollector\IACollector\obj\Release\IACollector.Properties.Resources.resources
+D:\InfoArch\IACollector\IACollector\obj\Release\IACollector.csproj.GenerateResource.Cache
+D:\InfoArch\IACollector\IACollector\bin\Release\IACollector.exe.config
+D:\InfoArch\IACollector\IACollector\bin\Release\IACollector.exe
+D:\InfoArch\IACollector\IACollector\bin\Release\IACollector.pdb
+D:\InfoArch\IACollector\IACollector\bin\Release\IADAL.dll
+D:\InfoArch\IACollector\IACollector\bin\Release\SubSonic.Core.dll
+D:\InfoArch\IACollector\IACollector\bin\Release\IADAL.pdb
+D:\InfoArch\IACollector\IACollector\bin\Release\SubSonic.Core.pdb
+D:\InfoArch\IACollector\IACollector\bin\Release\SubSonic.Core.xml
+D:\InfoArch\IACollector\IACollector\obj\Release\IACollector.exe
+D:\InfoArch\IACollector\IACollector\obj\Release\IACollector.pdb
+D:\InfoArch\IACollector\IACollector\obj\Release\IACollector.linkResult.resources
+D:\InfoArch\IACollector\IACollector\obj\Release\IACollector.AllPages.resources
+C:\Users\Developer\Desktop\IACollector\IACollector\bin\Release\IACollector.exe.config
+C:\Users\Developer\Desktop\IACollector\IACollector\bin\Release\IACollector.exe
+C:\Users\Developer\Desktop\IACollector\IACollector\bin\Release\IACollector.pdb
+C:\Users\Developer\Desktop\IACollector\IACollector\bin\Release\IADAL.dll
+C:\Users\Developer\Desktop\IACollector\IACollector\bin\Release\SubSonic.Core.dll
+C:\Users\Developer\Desktop\IACollector\IACollector\bin\Release\IADAL.pdb
+C:\Users\Developer\Desktop\IACollector\IACollector\bin\Release\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\IACollector\IACollector\bin\Release\SubSonic.Core.xml
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\IACollector.AllPages.resources
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\IACollector.Form1.resources
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\IACollector.exe
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\IACollector.pdb
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\bin\Release\IACollector.exe.config
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\bin\Release\IACollector.exe
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\bin\Release\IACollector.pdb
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\bin\Release\IADAL.dll
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\bin\Release\SubSonic.Core.dll
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\bin\Release\IADAL.pdb
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\bin\Release\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\bin\Release\SubSonic.Core.xml
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\obj\Release\IACollector.AllPages.resources
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\obj\Release\IACollector.Form1.resources
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\obj\Release\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\obj\Release\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\obj\Release\IACollector.exe
+C:\Users\Developer\Desktop\InfoArch\InfoArch\IACollector\IACollector\obj\Release\IACollector.pdb
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\IACollector.CosneValues.resources
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\IACollector.LinkvsHeadingCosine.resources
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\IACollector.LinkLinkHeading.resources
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\IACollector.HeadingvsParagraph.resources
+C:\Users\Developer\Desktop\IACollector\IACollector\obj\Release\IACollector.LinkLinkWithoutheading.resources
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\bin\Release\IACollector.exe.config
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\obj\Release\IACollector.exe
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\obj\Release\IACollector.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\obj\Release\IACollector.AllPages.resources
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\obj\Release\IACollector.CosneValues.resources
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\obj\Release\IACollector.Form1.resources
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\obj\Release\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\obj\Release\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\bin\Release\IACollector.exe
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\bin\Release\IACollector.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\bin\Release\IADAL.dll
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\bin\Release\SubSonic.Core.dll
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\bin\Release\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\bin\Release\SubSonic.Core.xml
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages)\IACollector\bin\Release\IADAL.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IACollector.exe.config
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.exe
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.AllPages.resources
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.Form1.resources
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IACollector.exe
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IACollector.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IADAL.dll
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\SubSonic.Core.dll
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\SubSonic.Core.xml
+C:\Users\Developer\Desktop\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IADAL.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IACollector.exe.config
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.exe
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IACollector.exe
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IACollector.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IADAL.dll
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\SubSonic.Core.dll
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\SubSonic.Core.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\SubSonic.Core.xml
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IADAL.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.AllPages.resources
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.Form1.resources
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.Properties.Resources.resources
+C:\Documents and Settings\j9123414\Desktop\IACollector at 26March\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.csproj.GenerateResource.Cache
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IACollector.exe.config
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.exe
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IACollector.exe
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IACollector.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IADAL.dll
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\SubSonic.Core.dll
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\SubSonic.Core.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\SubSonic.Core.xml
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\bin\Release\IADAL.pdb
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.AllPages.resources
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.Form1.resources
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.Properties.Resources.resources
+C:\Documents and Settings\j9123414\Desktop\IACollector at 2 April\IACollector-2 (Parsing indivisual Pages) -Modified\IACollector\obj\Release\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\bin\Release\IACollector.exe.config
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\obj\Release\IACollector.exe
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\obj\Release\IACollector.pdb

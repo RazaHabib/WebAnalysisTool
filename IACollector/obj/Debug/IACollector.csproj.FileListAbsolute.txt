@@ -1,0 +1,187 @@
+d:\InfoArch\IACollector\IACollector\bin\Debug\IACollector.exe
+d:\InfoArch\IACollector\IACollector\bin\Debug\IACollector.pdb
+d:\InfoArch\IACollector\IACollector\obj\Debug\ResolveAssemblyReference.cache
+d:\InfoArch\IACollector\IACollector\obj\Debug\IACollector.Form1.resources
+d:\InfoArch\IACollector\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+d:\InfoArch\IACollector\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+d:\InfoArch\IACollector\IACollector\obj\Debug\IACollector.exe
+d:\InfoArch\IACollector\IACollector\obj\Debug\IACollector.pdb
+d:\InfoArch\IACollector\IACollector\bin\Debug\IACollector.exe.config
+d:\InfoArch\IACollector\IACollector\bin\Debug\IADAL.dll
+d:\InfoArch\IACollector\IACollector\bin\Debug\IADAL.pdb
+d:\InfoArch\IACollector\IACollector\bin\Debug\SubSonic.Core.pdb
+d:\InfoArch\IACollector\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\WebPageHrefTransformation\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\Rapairs WebPageHrefTransformation\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\SubsiteWebPageHrefTransformation\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteWebPageHrefTransformation\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\ChangingPathtoGlobal-SubsiteAndRepairedWebPageHrefTransformation\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\ChangingMenuofAllFiles\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\WebsiteAnalysis\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\WebsiteAnalysis Test\IACollector\obj\Debug\IACollector.Form2.resources
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\WebsiteAnalysis Software\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer - Copy\IACollector\obj\Debug\IACollector.Form2.resources
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.Form2.resources
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.Form2.resources
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\WebsiteAnalyzer\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\bin\Debug\IACollector.exe.config
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\obj\Debug\IACollector.exe
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\obj\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\bin\Debug\IACollector.exe
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\bin\Debug\IACollector.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\bin\Debug\IADAL.dll
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\bin\Debug\SubSonic.Core.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\bin\Debug\SubSonic.Core.xml
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\bin\Debug\IADAL.pdb
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\obj\Debug\IACollector.Form2.resources
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\obj\Debug\IACollector.Form1.resources
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\obj\Debug\IACollector.Properties.Resources.resources
+C:\Users\Developer\Desktop\Study 1 Softwares+database+pages (Final)\16 WebsiteAnalyzer\IACollector\obj\Debug\IACollector.csproj.GenerateResource.Cache
